@@ -1,5 +1,5 @@
 # RED-UI Kit for sketchsketch
-red ui kit for rapid mockups in sketch
+RED-UI kit for rapid mockups in sketch.
 
 This is still work in progress. You can help me with it.
 
@@ -9,24 +9,22 @@ This is still work in progress. You can help me with it.
 #### CSS
 * Grid system
 * Typography
- * ~~Headings~~
- * ~~Body copy~~
- * ~~Lead~~
- * Addresses
+ * Headings
+ * ~~Body~~
+ * ~~Addresses~~
  * ~~Blockqoutes~~
-* Code
-* Tables
+* ~~Tables~~
 * Forms
  * ~~Radio/Checkbox + Compontents~~
- * ~~Normal state~~
+ * Normal state
  * ~~Focus state~~
  * ~~Disbaled state~~
- * Read only
+ * ~~Read only~~
  * Validation
 * Buttons
- * ~~Default~~
+ * Default
  * ~~Colour Variants~~
- * Sizes
+ * ~~Sizes~~
 * Images
  * ~~Circle~~
  * ~~Rounded~~
@@ -36,36 +34,39 @@ This is still work in progress. You can help me with it.
 * Glyphicons
 * Dropdowns
 * Button groups
- * Button toolbar
- * Sizing
- * Nesting
- * Vertical variation
+ * ~~Button toolbar~~
+ * ~~Sizing~~
+ * ~~Nesting~~
+ * ~~Vertical variation~~
 * Button dropdowns
- * Single
- * Split
- * Sizing
+ * ~~Single~~
+ * ~~Split~~
+ * ~~Sizing~~
 * Input groups
- * Basic
- * Sizing
- * Checkboxes and radios
- * Button addons
- * Buttons with dropdowns
- * Segmented buttons
- * Multiple buttons
+ * ~~Basic~~
+ * ~~Sizing~~
+ * ~~Checkboxes and radios~~
+ * ~~Button addons~~
+ * ~~Buttons with dropdowns~~
+ * ~~Segmented buttons~~
+ * ~~Multiple buttons~~
 * Navs
- * Pills
-* Navbar
-* Breadcrumbs
-* Pagination
-* ~~Labels~~
+ * ~~Pills~~
+* ~~Navbar~~
+* ~~Breadcrumbs~~
+* ~~Pagination~~
+* Labels
 * ~~Badges~~
-* ~~Jumbotron~~
-* ~~Page header~~
-* Thumbnails
+* ~~Thumbnails~~
 * ~~Alerts~~
-* Progress bars
+* ~~Progress bars~~
 * ~~Media object~~
-* List group
-* Panels
-* Responsive embed
-* Wells
+* ~~List group~~
+* ~~Panels~~
+* Cards
+ * ~~Normal~~
+ * ~~Header~~
+ * ~~Footer~~
+ * ~~Image + Text~~
+ * ~~Image~~
+ * ~~Table~~
